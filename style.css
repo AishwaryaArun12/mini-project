@@ -1,0 +1,102 @@
+#bar{
+    display: flex;
+    color: black;
+    flex-direction: row-reverse;
+    background-color: black;
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.box{
+    padding: 10px;
+}
+#landing-image{
+    text-align: center;
+}
+
+#heading{
+    position: fixed;
+    top: 5px;
+    color: rgb(22, 19, 230);
+    margin-left: 2px;
+    padding-left: 50px;
+    font-size: 10vw;
+    text-shadow: 5px 8px 10px red;
+}
+#cover3{
+    width: 150vw;
+    height: 100vw;
+}
+#head{
+    text-shadow: 5px 8px 10px red;
+    color: rgb(114, 114, 187);
+    font-size: 6vw;
+    position: fixed;
+    top:15vw;
+    padding-left: 200px;
+}
+.btn{
+    text-decoration: none;
+    font-size: x-large;
+    padding: 20px;
+}
+.padding{
+    padding: 10px;
+   background-color: burlywood;
+   border: 5px solid red;
+   margin: 20px;
+   width: 500px;
+}
+a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+#wedding{
+    margin: 10px;
+    white-space: nowrap;
+    overflow-x: scroll;
+}
+.photos{
+    position: relative;
+    border: 5px solid green;
+    margin: 2px;
+    border-radius: 2px;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    overflow-x: scroll;
+}
+button{
+    position: fixed;
+    top: 65%;
+    left: 20vw;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: brown;
+    color: white;
+}
+#head2{
+    margin: 5px;
+    box-shadow: 8px 7px blue;
+    font-size: 30px;
+    color: blue;
+    padding: 30px;
+    text-align: center;
+    background-color: aliceblue;
+    width: 500px;
+    height: 5px;
+}
